@@ -35,3 +35,10 @@ Sistem bütünlüğünü ve uzay/fırlatma koşullarına dayanıklılığını d
 * **Drop Test:** 1.5 metre serbest düşme testi.
 * **Titreşim:** 3 eksenli titreşim simülasyonları ve testleri.
 * **Isıl Analiz:** Kullanılan malzemelerin (ASA/PC) ısıl dayanım doğrulama testleri.
+
+## 📄 Teknik Raporlar (PDR & CDR)
+
+Projenin tasarım, analiz ve üretim süreçlerini detaylandıran akademik ve teknik raporları aşağıdan inceleyebilirsiniz:
+
+* 📥 **[Aether PDR (Ön Tasarım) Raporu](Aether%20PDR%20Raporu.pdf)**
+* 📥 **[Aether CDR (Kritik Tasarım) Raporu](Aether%20CDR%20Raporu.pdf)**
